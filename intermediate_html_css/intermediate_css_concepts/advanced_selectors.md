@@ -154,7 +154,7 @@ For a more dynamic approach we can use <span id="second-child-knowledge-check">[
 
   .myList:nth-child(3n) { /* Selects every 3rd element with class myList */}
 
-  .myList:nth-child(3n + 3) { /* Selects every 3rd element with class myList, beginning with the 3rd */}
+  .myList:nth-child(3n + 2) { /* Selects every 3rd element with class myList, beginning with the 2nd */}
 
   .myList:nth-child(even) {/* Selects every even element with class myList */}
 ```
